@@ -1,0 +1,45 @@
+/* book gallery */
+/* book name */
+/* book image */
+/* author name */
+/* description */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Oswald:wght@200&family=Rubik+Moonrocks&family=Splash&display=swap');
+div{
+    width: 16%;
+    height: 728px;
+    background-color: cornflowerblue;
+    color: black;
+    float:left;
+    padding: 20px;
+    border: 2px solid green;
+    border-radius: 20px;
+    
+}
+img{
+    width: 100%;
+   height:189px ;
+    border-radius: 20px;
+
+    
+}
+#b1{
+    color: green;
+    margin-left: 436px;
+
+}
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+color:brown;
+
+}
+h1{
+    font-family:'Rubik Moonrocks', cursive; ;
+}
+body{
+    background-color:black;
+}
+p{
+   border: 2px solid gray;
+   border-radius: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
